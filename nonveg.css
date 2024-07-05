@@ -1,0 +1,16 @@
+body{
+    background-color:#fed792;
+}
+img{
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    size: 700px;
+    background-color: white;
+    border-radius: 50px;
+    border-color:#10679b;
+}
+h1{
+    color:#10679b ;
+}

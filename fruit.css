@@ -1,0 +1,16 @@
+body{
+    background-color:#f76d86;
+}
+img{
+    background-color:#f56e8a;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    size: 700px;
+    border-radius: 50px;
+    border-color:#10679b
+}
+h1{
+    color:#dd303f ;
+}
